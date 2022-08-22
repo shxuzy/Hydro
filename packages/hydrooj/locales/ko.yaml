@@ -23,7 +23,6 @@ __langname: 한국어
 'A domain ID cannot be changed after creation. It is supposed to be:': '그룹 ID는 수정할 수 없으며 다음과 같아야 합니다.：'
 'Copy "{data}" failed :(': '복사“{data}”실패 :('
 'Copy failed :(': '복사 실패 :('
-'Current dataset: {0}': '현재 데이터셋: {0}'
 'Discussion: Terms Of Service': 토론 약관
 'Format: category 1, category 2, ..., category n': 형식：분류1, 분류2, ..., 분류n
 'Join {0}': '참여 {0}'
@@ -67,7 +66,6 @@ All Training Plans: 전체 학습계획
 All: 전체
 Always granted all privileges: 항상 모든 권한 허가
 An error has occurred.: 문제가 발생했습니다.
-An example of dataset: 데이터셋 예시
 Any user is allowed to join this domain with an invitation code: 누구나 코드가 있으면 참여 가능
 Any user is allowed to join this domain: 누구나 참여 가능
 Argument {0} is invalid.: 인자 {0}이(가) 무효입니다.
@@ -173,7 +171,6 @@ Create Training Plan: 학습계획 만들기
 Create training plans: 학습계획 만들기
 Create: 만들기
 Created By: 제작자
-Current dataset comes from: 채점 데이터
 current domain: 그룹
 Current Email: 이메일
 Current Location: 위치
@@ -184,8 +181,6 @@ currently offline: 오프라인
 Data of Problem {0} not found.: 문제 {0}의 데이터가 없습니다.
 Data of problem {1} not found.: 문제 {1}의 데이터가 없습니다.
 Data of record {0} not found.: 제출 {0}의 데이터가 없습니다.
-Dataset Format: 데이터셋 형식
-Dataset: 데이터셋
 Day: 일
 Deadline: 제출 기한
 Default Code Language: 기본 언어
@@ -248,7 +243,6 @@ domain: 그룹
 Domain: 그룹
 Don't have an account?: 계정이 없으신가요?
 Done: 완료
-Download Dataset: 데이터셋 다운로드
 Download: 다운로드
 Downvote: 싫어요
 Duration (hours): 지속시간 (h)
@@ -429,13 +423,11 @@ name: 이름
 Name: 이름
 Network error: Network error
 Never expire: 영원히 만료되지 않음
-New dataset: 새 데이터셋
 New Email: 새 이메일
 New file: 새 파일
 New Password: 새 비밀번호
 New Training Plan: 새 학습 계획
 No comments so far...: 아직 댓글이 없네요...
-No dataset at present.: 데이터셋 없음
 no discussion yet...: 토론 없음
 No Permission to Attend Contest: 대회에 참여할 권한이 없습니다.
 No Permission to Claim Homework: 과제를 할당받을 권한이 없습니다.

@@ -23,7 +23,6 @@ __langname: 简体中文
 'A domain ID cannot be changed after creation. It is supposed to be:': '创建后将无法更改 ID。ID 必须满足以下条件：'
 'Copy "{data}" failed :(': '复制“{data}”失败 :('
 'Copy failed :(': '复制失败 :('
-'Current dataset: {0}': '当前测试数据: {0}'
 'Discussion: Terms Of Service': 讨论区服务条款
 'File upload failed: {0}': 文件上传失败：{0}
 'Format: category 1, category 2, ..., category n': 格式：分类1, 分类2, ..., 分类n
@@ -74,7 +73,6 @@ All Training Plans: 所有训练计划
 All: 全部
 Always granted all privileges: 总是拥有所有权限
 An error has occurred.: 发生了一个错误。
-An example of dataset: 测试数据集的一个例子
 Any user is allowed to join this domain with an invitation code: 任意用户都可以通过邀请码加入此域
 Any user is allowed to join this domain: 任意用户都可以加入此域
 API: API
@@ -198,7 +196,6 @@ Create Training Plan: 创建训练计划
 Create training plans: 创建训练计划
 Create: 创建
 Created By: 创建人
-Current dataset comes from: 当前数据集来自
 current domain: 当前域
 Current Email: 当前电子邮件
 Current Location: 当前位置
@@ -210,8 +207,6 @@ Daily update check: 每日自动检查更新
 Data of Problem {0} not found.: 题目 {0} 的数据缺失。
 Data of problem {1} not found.: 题目 {1} 的数据未找到。
 Data of record {0} not found.: 记录 {0} 的数据未找到。
-Dataset Format: 测试数据集格式
-Dataset: 测试数据
 Day: 日
 Deadline: 截止时间
 Default Code Language: 默认代码语言
@@ -274,7 +269,6 @@ Domain: 域
 Don't have an account?: 还没有账户？
 Done: 已结束
 Download All: 下载全部
-Download Dataset: 下载数据集
 Download Selected: 下载选中
 Download: 下载
 Downvote: 差评
@@ -499,13 +493,11 @@ Nav Logo Light: 左上角图标（亮）
 Nav Logo Light@2x: 左上角图标（亮）（大）
 Network error: 网络错误
 Never expire: 从不过期
-New dataset: 新测试数据
 New Email: 新电子邮件
 New file: 新文件
 New Password: 新密码
 New Training Plan: 新训练计划
 New: 创建
-No additional file at current: 当前没有附加文件
 No additional file at current.: 暂无附加文件。
 No comments so far...: 目前还没有评论...
 no discussion yet...: 目前没有讨论…
@@ -782,6 +774,7 @@ Temporary session: 临时会话
 Terms of Service: 服务条款
 Test data comes from: 测试数据来自
 Testdata Config: 测试数据配置
+Testdata Format: 测试数据格式
 Testdata: 测试数据
 Text: 文本
 The 'default' role applies to ALL REGISTERED USER.: default 角色作用于<b>所有已注册用户</b>

@@ -16,7 +16,6 @@ __langname: 正體中文
 '↓ Create Time': '↓ 創建時間'
 '↓ Update Time': '↓ 更新時間'
 'A domain ID cannot be changed after creation. It is supposed to be:': '創建後將無法更改 ID。ID 必須滿足以下條件：'
-'Current dataset: {0}': '當前測試資料: {0}'
 'Hello, {0}! You can click following link to active your new email of your {1} account:': 您好，{0}！您可以點選以下連結來啟用您 {1} 賬戶的新電子郵件地址：
 'Hello, {0}! You can click following link to reset the password of your {1} account:': 您好，{0}！您可以點選以下連結來重置您 {1} 賬戶的密碼：
 'Hello! You can click following link to sign up your {0} account:': 您好！您可以點選以下連結來註冊您的 {0} 賬戶：
@@ -114,7 +113,6 @@ Current password doesn't match.: 當前密碼輸入錯誤。
 Current Password: 當前密碼
 currently offline: 目前離線
 Data of Problem {0} not found.: 題目 {0} 的資料缺失。
-Dataset: 測試資料
 Deadline: 截止時間
 Default Code Language: 預設程式碼語言
 Default Code Template: 預設程式碼模板
@@ -461,6 +459,7 @@ Submitted: 已遞交
 Support: 支援
 Technical Information: 技術資訊
 Temporary session: 臨時會話
+Testdata Format: 測試資料 範例
 Text: 文字
 The homework's deadline is due but in extension. You can still submit for this problem but your score will be penalized.: 功課已經截止，但處於延期時間内。您此時遞交的題目無法獲得全部分數。
 Their account will not be deleted and they will be with the default role.: 他們的賬號不會被刪除，並且之後將以 default 角色訪問。

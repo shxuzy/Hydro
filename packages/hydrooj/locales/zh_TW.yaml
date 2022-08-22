@@ -17,7 +17,6 @@ __langname: 正體中文
 '↓ Create Time': '↓ 創建時間'
 '↓ Update Time': '↓ 更新時間'
 'A domain ID cannot be changed after creation. It is supposed to be:': '創建後將無法更改 ID。ID 必須滿足以下條件：'
-'Current dataset: {0}': '當前測試資料: {0}'
 'No': 否
 'Solved {0} problems, RP: {1} (No. {2})': '解決了 {0} 道題目，RP: {1} (No. {2})'
 'Yes': 是
@@ -111,7 +110,6 @@ Current password doesn't match.: 當前密碼輸入錯誤。
 Current Password: 當前密碼
 currently offline: 目前離線
 Data of Problem {0} not found.: 題目 {0} 的資料缺失。
-Dataset: 測試資料
 Deadline: 截止時間
 Default Code Language: 預設程式碼語言
 Default Code Template: 預設程式碼模板
@@ -273,7 +271,6 @@ New Email: 新電子郵件
 New Password: 新密碼
 New Training Plan: 新訓練計劃
 New: 創建
-No dataset at present.: 暫無測試資料。
 no discussion yet...: 目前沒有討論…
 No Permission to Attend Contest: 您沒有許可權參加比賽
 No Permission to Claim Homework: 您沒有權限認領功課

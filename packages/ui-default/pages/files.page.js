@@ -3,6 +3,7 @@ import _ from 'lodash';
 import { ConfirmDialog, Dialog } from 'vj/components/dialog/index';
 import Notification from 'vj/components/notification';
 import { NamedPage } from 'vj/misc/Page';
+import delay from 'vj/utils/delay';
 import i18n from 'vj/utils/i18n';
 import pjax from 'vj/utils/pjax';
 import request from 'vj/utils/request';
@@ -92,6 +93,7 @@ async function handleClickUpload(files) {
     console.error(e);
     Notification.error(i18n('File upload failed: {0}', e.toString()));
   } finally {
+    await delay(500);
     dialog.close();
   }
 }

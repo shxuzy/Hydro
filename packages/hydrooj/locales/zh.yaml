@@ -24,7 +24,6 @@ __langname: 简体中文
 'A domain ID cannot be changed after creation. It is supposed to be:': '创建后将无法更改 ID。ID 必须满足以下条件：'
 'Copy "{data}" failed :(': '复制“{data}”失败 :('
 'Copy failed :(': '复制失败 :('
-'Current dataset: {0}': '当前测试数据: {0}'
 'Discussion: Terms Of Service': 讨论区服务条款
 'Format: category 1, sub category 1.1, sub category 1.2, ..., sub category 1.x, ..., category n, sub category n.1, sub category n.2, ..., sub category n.m, ...': 格式：分类1, 子分类1.1, 子分类1.2, ..., 子分类1.x, ..., 分类n, 子分类n.1, 子分类n.2, ..., 子分类n.m, ...
 'Join {0}': '加入 {0}'
@@ -74,7 +73,6 @@ Allow using gravatar:email qq:id github:name url:link format.: 允许使用 grav
 Allowed langs: 域内允许使用的提交语言
 Always granted all privileges: 总是拥有所有权限
 An error has occurred.: 发生了一个错误。
-An example of dataset: 测试数据集的一个例子
 Any user is allowed to join this domain with an invitation code: 任意用户都可以通过邀请码加入此域
 Any user is allowed to join this domain: 任意用户都可以加入此域
 API: API
@@ -192,7 +190,6 @@ Create Training Plan: 创建训练计划
 Create training plans: 创建训练计划
 Create: 创建
 Created By: 创建人
-Current dataset comes from: 当前数据集来自
 current domain: 当前域
 Current Email: 当前电子邮件
 Current Location: 当前位置
@@ -203,8 +200,6 @@ currently offline: 目前离线
 Data of Problem {0} not found.: 题目 {0} 的数据缺失。
 Data of problem {1} not found.: 题目 {1} 的数据未找到。
 Data of record {0} not found.: 记录 {0} 的数据未找到。
-Dataset Format: 测试数据集格式
-Dataset: 测试数据
 Day: 日
 Deadline: 截止时间
 Default Code Language: 默认代码语言
@@ -273,7 +268,6 @@ domain: 域
 Domain: 域
 Don't have an account?: 还没有账户？
 Done: 已结束
-Download Dataset: 下载数据集
 Download link copied to clipboard!: 下载链接已复制到剪贴板。
 Download: 下载
 Downvote: 差评
@@ -484,15 +478,14 @@ name: 名称
 Name: 名称
 Network error: 网络错误
 Never expire: 从不过期
-New dataset: 新测试数据
 New Email: 新电子邮件
 New file: 新文件
 New Password: 新密码
 New Training Plan: 新训练计划
 New: 创建
 No comments so far...: 目前还没有评论...
-No dataset at present.: 暂无测试数据。
 no discussion yet...: 目前没有讨论…
+No file at present.: 暂无文件。
 No Permission to Attend Contest: 您没有权限参加比赛
 No Permission to Claim Homework: 您没有权限认领作业
 No Permission to Create a Discussion: 您没有权限创建讨论
